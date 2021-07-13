@@ -1,8 +1,11 @@
-hungry=input("are you hungry?")
-if hungry=="yes":
-    print("eat samosa")
-    print("eat pizza")
-    print("eat burger")
-    print("eat fries")
+hungry=input("Are you hungry")
+if hungry=="yes':
+    print("Eat Samosa")
+    print("Eat Pizza")
+    print("Eat Burger")
 else:
-    print("do homework")    
+    thristy=input("Are you thristy")
+    if hungry=="yes':
+        print("Drink Water")
+        print("Drink Cold-Drinks")
+        print("Drink Soda")
